@@ -2,6 +2,6 @@
 ## Our projects
 Here is our current projects :
 
-<a href=https://github.com/RGBProd/Nodeverse>Nodeverse</a>
+[Nodeverse](https://github.com/RGBProd/Nodeverse)
 
-<a href=https://github.com/RGBProd/closedverse-le>Closedverse le</a>
+[Closedverse le](https://github.com/RGBProd/closedverse-le)
